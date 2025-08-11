@@ -80,16 +80,20 @@ if (addendum.length > 0) {
       </div>
     </div>
   </article>
-  {
+ <!--
+ {
     AddendumContent && (
       <PostAddendum avatarImage={addendumAvatarImage}>
         <AddendumContent />
       </PostAddendum>
     )
   }
-  {(prev || next) && <DividerText text="More Posts" />}
+  -->
+  {(prev || next) && <DividerText text="más cojudeces" />}
   {prev && <PostPreview post={prev} />}
   {next && <PostPreview post={next} />}
+  
+  <!--
   {
     siteConfig.giscus && (
       <>
@@ -98,4 +102,5 @@ if (addendum.length > 0) {
       </>
     )
   }
+  -->
 </Layout>
