@@ -37,7 +37,7 @@ const postsHaveTags = sortedPosts.some(
   {
     postsHaveTags && (
       <>
-        <BlockHeader>Tags</BlockHeader>
+        <BlockHeader>tags</BlockHeader>
         <TagsSection posts={sortedPosts} />
       </>
     )
@@ -45,7 +45,7 @@ const postsHaveTags = sortedPosts.some(
   {
     sortedPosts.length > 0 && (
       <>
-        <BlockHeader>Latest Posts</BlockHeader>
+        <BlockHeader>lo ultimito</BlockHeader>
         {sortedPosts.slice(0, siteConfig.pageSize).map((post) => (
           <PostPreview post={post} />
         ))}
