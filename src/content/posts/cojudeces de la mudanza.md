@@ -4,6 +4,10 @@ description: 'cojudeces de la mudanza de oak park'
 published: 2007-03-16
 tags: ['awkward']
 draft: false
+url:
+type: post
+site: cojudeces.com
+status: draft
 ---
 
 El jueves nos mudamos vecindario, de la tranquilidad suburbana de Oak Park, a Woodland Hills, donde hay mucha más gente y cemento por todas partes. Si algo tiene de peculiar esta ciudad, es que forma parte del San Fernando Valley, que es algo así como la capital mundial de las películas porno... un trabajito part-time no caería nada mal. La compañía de mudanzas nos envió tres tipos, uno israelí, otro gringo y, por supuesto, el tercero era mexicano. Clea estaba en la oficina, yo me había tomado el día libre y trataba de ayudar a los de la mudanza que me decían no necesitamos ayuda por favor somos profesionales no nos jodas, así que salí a dar una vuelta, no había nadie por ahí, así es Oak Park, un barrio apacible, sólo una rubia de unos cuarenta años iba de la mano de una pequeña niña, caminaban delante de mí, ¡qué buenas son las tías aquí en LA!, pensé, cómo no nos hacemos amigos... y ahí fue que diosito me escuchó porque la rubia dio un mal paso, se torció el tobillo y rodó por el suelo. Yo todo imbécil, en vez de pensar "¡gracias, ésta es mi oportunidad!", pensé "¡carajo no hay nadie más en la calle, voy a tener que hacer algo!", qué falta de killer-instinct por dios.

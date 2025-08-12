@@ -16,7 +16,7 @@ const { remarkPluginFrontmatter } = await render(post)
 const description = remarkPluginFrontmatter.description || post.data.description
 ---
 
-<article class="w-full py-5 my-1 md:my-4 border-accent/10">
+<article class="w-full py-1 my-1 md:my-4 border-accent/10">
   <h1 class="mb-3 text-2xl text-[var(--theme-h1)] font-semibold">
     <a href={`/posts/${post.id}`}># {post.data.title}</a>
   </h1>
@@ -32,7 +32,7 @@ const description = remarkPluginFrontmatter.description || post.data.description
   <div>
     <a class="button flex items-center" href={`/posts/${post.id}`}>
       leer
-      <Icon name="chevrons-right" class="size-5 ml-2" />
+      <Icon name="chevrons-right" class="size-5 ml-2" color="red"/>
     </a>
   </div>
 </article>
