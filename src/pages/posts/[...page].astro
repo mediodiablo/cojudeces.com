@@ -16,13 +16,13 @@ export const getStaticPaths = (async ({ paginate }) => {
 const { page } = Astro.props
 ---
 
-<Layout title="Archive" description="All posts in the archive">
-  <BlockHeader>Archive</BlockHeader>
+<Layout title="archivo" description="todos los posts en el archivo">
+  <BlockHeader>los arch.chivos</BlockHeader>
   <PostPreviewsWithYear posts={page.data} />
   <Pagination
     prevLink={page.url.prev ? page.url.prev : undefined}
-    prevText="Newer Posts"
+    prevText="posts recientes"
     nextLink={page.url.next ? page.url.next : undefined}
-    nextText="Older Posts"
+    nextText="posts viejos"
   />
 </Layout>

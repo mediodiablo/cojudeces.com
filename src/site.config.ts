@@ -122,7 +122,7 @@ const config: SiteConfig = {
   socialLinks: {
     github: 'https://github.com/mediodiablo',
     // mastodon: 'https://github.com/stelcodes/multiterm-astro',
-    email: 'https://github.com/stelcodes/multiterm-astro',
+    // email: 'https://github.com/stelcodes/multiterm-astro',
     // linkedin: 'https://github.com/stelcodes/multiterm-astro',
     // bluesky: 'https://github.com/stelcodes/multiterm-astro',
     // twitter: 'https://github.com/stelcodes/multiterm-astro',
