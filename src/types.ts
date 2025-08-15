@@ -144,6 +144,7 @@ export interface SiteConfig {
   socialCardAvatarImage: string
   tags: string[]
   pageSize: number
+  pageSizeArchive: number
   themes: ThemesConfig
   socialLinks: SocialLinks
   navLinks: NavLink[]

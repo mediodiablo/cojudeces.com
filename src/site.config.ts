@@ -21,6 +21,7 @@ const config: SiteConfig = {
   font: 'Jost Variable',
   // For pagination, the number of posts to display per page.
   pageSize: 5,
+  pageSizeArchive: 17,
   // The navigation links to display in the header.
   navLinks: [
     {
@@ -32,8 +33,12 @@ const config: SiteConfig = {
       url: '/about',
     },
     {
-      name: 'arch.chivo',
+      name: 'blog',
       url: '/posts',
+    },
+    {
+      name: 'arch.chivo',
+      url: '/archive',
     },
     {
       name: 'links',
@@ -43,7 +48,7 @@ const config: SiteConfig = {
   // The theming configuration for the site.
   themes: {
     // The theming mode. One of "single" | "select" | "light-dark-auto".
-    mode: 'single',
+    mode: 'select',
     // The default theme identifier, used when themeMode is "select" or "light-dark-auto".
     // Make sure this is one of the themes listed in `themes` or "auto" for "light-dark-auto" mode.
     default: 'slack-ochin',

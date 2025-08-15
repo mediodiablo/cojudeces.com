@@ -91,7 +91,7 @@ button {
 }
 
 a.button {
-  @apply inline-flex text-accent border-3 border-accent/30 border-double py-1.5 px-3 whitespace-nowrap hover:bg-accent/8 rounded-xl transition-colors;
+  @apply inline-flex text-accent border-3 border-accent/30 border-double py-1.5 px-3 whitespace-nowrap hover:bg-accent/8 rounded-lg transition-colors;
 }
 
 header button,
@@ -104,7 +104,7 @@ button {
 }
 
 article img {
-  @apply block max-w-full border-8 border-foreground/10 rounded-xl overflow-hidden mx-auto;
+  @apply block max-w-full border-1 border-foreground/10 rounded-lg overflow-hidden mx-auto;
 
   &[pixelated='true'] {
     image-rendering: pixelated;
@@ -133,7 +133,7 @@ article img {
     }
 
     figure {
-      @apply border-2 border-foreground/8 !rounded-xl;
+      @apply border-1 border-foreground/8 !rounded-lg;
       box-shadow: none !important;
 
       &.has-title,
@@ -315,7 +315,7 @@ article img {
   }
 
   button {
-    @apply font-bold text-center text-accent py-1 px-4.5 border-4 border-accent rounded-xl cursor-pointer hover:bg-accent/15 transition-colors;
+    @apply font-bold text-center text-accent py-1 px-4.5 border-4 border-accent rounded-lg cursor-pointer hover:bg-accent/15 transition-colors;
   }
 
   figure:not(.expressive-code figure) {
@@ -349,7 +349,7 @@ article img {
 
   blockquote,
   aside {
-    @apply px-7 md:px-6 rounded-xl py-6;
+    @apply px-7 md:px-6 rounded-lg py-6;
 
     & > *:not(div.expressive-code, img, figure, video, hr),
     figcaption {

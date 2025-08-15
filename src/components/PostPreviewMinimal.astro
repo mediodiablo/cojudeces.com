@@ -16,23 +16,23 @@ const { remarkPluginFrontmatter } = await render(post)
 const description = remarkPluginFrontmatter.description || post.data.description
 ---
 
-<article class="w-full py-1 my-1 md:my-4 border-accent/10">
-  <h1 class="mb-3 text-xl text-[var(--theme-h1)] font-semibold">
+<article class="w-full -py-3 -my-1 md:my-1 border-accent/10">
+  <h1 class="-mb-1 text-base text-[var(--theme-h1)] font-semibold">
     <a href={`/posts/${post.id}`}># {post.data.title}</a>
   </h1>
-  <PostInfo post={post} class="-my-1 text-xs" />
-  {description && <p class="my-3 text-base/7 text-foreground">{description}</p>}
+  <PostInfo post={post} class="my-3 text-xs" />
+<!--  {description && <p class="my-4 text-base/7 text-foreground">{description}</p>} -->
   {
     post.data.tags && (
-      <div class="mb-5">
+      <div class="mb-6">
         <Tags tags={post.data.tags} />
       </div>
     )
   }
-  <div>
-    <a class="button flex items-center text-sm" href={`/posts/${post.id}`}>
+<!--  <div>
+    <a class="button flex items-center" href={`/posts/${post.id}`}>
       leer
       <Icon name="chevrons-right" class="size-5 ml-2" color="red"/>
     </a>
-  </div>
+  </div> -->
 </article>

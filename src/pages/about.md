@@ -1,7 +1,10 @@
 ---
 layout: '@layouts/MarkdownLayout.astro'
 title: acerca de...
+toc: true
 ---
+
+![escuadron cojudeces #pixelated](../assets/about-trampolin.jpg 'proto escuadrón circa 1980')
 
 cojudeces.com está con­for­mado por cinco o seis ami­gos, (el escuadrón) que se conocieron en el Perú y que con el paso de los años han ido des­perdigán­dose por el resto del planeta.
 
