@@ -1,5 +1,5 @@
 ---
-title: 'nuevo look y setup de cojudeces.com: static site'
+title: 'nuevo look y setup de cojudeces.com: static site (agosto 2025)'
 description: 'hoy, con un poquito de dedicación, podemos relanzar cojudeces.com sin necesidad de apoyarnos en un content management system'
 published: 2025-08-14
 updateDate:
