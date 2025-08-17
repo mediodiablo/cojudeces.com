@@ -40,10 +40,10 @@ const config: SiteConfig = {
       name: 'arch.chivo',
       url: '/archive',
     },
-    {
-      name: 'links',
-      url: '/links',
-    },
+   // {
+    //  name: 'links',
+    //  url: '/links',
+   // },
   ],
   // The theming configuration for the site.
   themes: {

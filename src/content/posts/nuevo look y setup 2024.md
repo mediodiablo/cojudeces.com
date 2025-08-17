@@ -1,7 +1,7 @@
 ---
 title: 'el nuevo look y setup de cojudeces.com (agosto 2024)'
 description: 'cambio total de stack tecnológico para aprender de computadoras'
-slug: nuevo-look
+slug: nuevo-look-2024
 author: mediodiablo
 tags: ['web', 'blogging', 'updates', 'gear-and-tech']
 published: 2024-08-24
