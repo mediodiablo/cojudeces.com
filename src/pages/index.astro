@@ -12,13 +12,11 @@ import TagsSection from '@components/TagsSection.astro'
 const home = await getCollection('home')
 let HomeContent
 let homeAvatarImage
-let homeGithubCalendar
 if (home.length > 0) {
   const homeEntry = home[0]
   const { Content } = await render(homeEntry)
   HomeContent = Content
   homeAvatarImage = homeEntry.data.avatarImage
-  homeGithubCalendar = homeEntry.data.githubCalendar
 }
 const sortedPosts = await getSortedPosts()
 const postsHaveTags = sortedPosts.some(
@@ -29,7 +27,7 @@ const postsHaveTags = sortedPosts.some(
 <Layout>
   {
     HomeContent && (
-      <HomeBanner avatarImage={homeAvatarImage} githubCalendar={homeGithubCalendar}>
+      <HomeBanner avatarImage={homeAvatarImage}>
         <HomeContent />
       </HomeBanner>
     )
