@@ -32,14 +32,18 @@ const config: SiteConfig = {
       name: 'about',
       url: '/about',
     },
-    {
-      name: 'blog',
-      url: '/posts',
-    },
+    //{
+    //  name: 'blog',
+    //  url: '/posts',
+    // }, 
     {
       name: 'arch.chivo',
       url: '/archive',
     },
+   // {
+    //  name: 'quiver',
+    //  url: '/quiver',
+   // },
    // {
     //  name: 'links',
     //  url: '/links',

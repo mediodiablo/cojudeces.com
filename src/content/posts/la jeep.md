@@ -4,7 +4,7 @@ description: 'con la llegada de la Jeep, la cantidad de expediciones se ha incre
 published: 2022-03-05
 slug: la-jeep
 updateDate:
-tags: ['viajes', 'expediciones', 'gear-and-tech']
+tags: ['expediciones', 'gear-and-tech']
 type: post
 site: cojudeces.com
 status: published
