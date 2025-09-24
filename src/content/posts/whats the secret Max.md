@@ -1,11 +1,11 @@
 ---
 title: "what's the secret, Max?"
-description: "Max Fischer revela el secreto de todo. La respuesta parece tan simple y obvia."
+description: 'Max Fischer revela el secreto de todo. La respuesta parece tan simple y obvia.'
 published: 2021-12-13
 updateDatetime:
 tags:
   - films
-  - reflexiones
+  - ramblings
 type: post
 site: cojudeces.com
 status: published
