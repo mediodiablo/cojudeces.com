@@ -10,7 +10,7 @@ site: cojudeces.com
 status: published
 ---
 
-Qué tal, interweb...
+qué tal, interweb...
 
 No logramos encontrar la referencia en la red, pero recordamos bien una anécdota acerca de César Vallejo durante sus años en París. Contaban que, cuando se presentaba, decía "mi nombre es César Vallejo, pero con arroz por favor". Era un reconocimiento a la comida peruana, que deja de ser perucha si se elimina el arroz.
 
