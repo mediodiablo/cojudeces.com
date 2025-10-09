@@ -43,7 +43,7 @@ Hoy inclusive se dice por ahí que solamente tres músicos han revolucionado la 
 
 Afortunadamente, en el tema de los solos no hay complicaciones ni subjetivismos ni injusticias.
 
-En este ámbito se puede aplicar la idea mencionada [[bbbbcojudeces-staging/es posible identificar la mejor canción|aquí]], acerca de poder identificar lo mejor de toda una carrera con solamente escuchar una canción.
+En este ámbito se puede aplicar la idea mencionada [aquí](./es-posible-identificar-la-mejor-cancion), acerca de poder identificar lo mejor de toda una carrera con solamente escuchar una canción.
 
 En los solos de guitarras no hay rankings.
 
@@ -51,7 +51,7 @@ Hay solos extraordinarios y extraterrestres, como el de Bohemian Rhapsody (Brian
 
 ... y luego, desde un cielo cada vez menos lejano y más alto, por sobre todo, se oye _I have become comfortably numb_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x-xTttimcNk?si=GSPVK0ah4ycCKGkM&amp;start=269" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o5Ht6WIhhmU?si=IANFr_UAW470srZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Qué guitarra usó David Gilmour cuando grabó Comfortably Numb? Una Fender Stratocaster con algunas modificaciones.
 
