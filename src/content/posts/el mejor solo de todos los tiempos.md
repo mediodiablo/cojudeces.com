@@ -43,7 +43,7 @@ Hoy inclusive se dice por ahí que solamente tres músicos han revolucionado la 
 
 Afortunadamente, en el tema de los solos no hay complicaciones ni subjetivismos ni injusticias.
 
-En este ámbito se puede aplicar la idea mencionada [aquí](./es-posible-identificar-la-mejor-cancion), acerca de poder identificar lo mejor de toda una carrera con solamente escuchar una canción.
+En este ámbito se puede aplicar la idea mencionada [aquí](/posts/es-posible-identificar-la-mejor-cancion), acerca de poder identificar lo mejor de toda una carrera con solamente escuchar una canción.
 
 En los solos de guitarras no hay rankings.
 
