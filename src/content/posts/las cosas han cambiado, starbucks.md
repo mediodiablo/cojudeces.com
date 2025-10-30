@@ -27,9 +27,9 @@ Hoy en día, con la familia encima, cuando salimos temprano a nuestras expedicio
 - banana bread (2)
 - egg bites (2)
 
-Esa orden cuesta $XXX. No hace mucho, $XXX alcanzaba para almorzar en restaurantes de tipo casual.
+Esa orden cuesta $32.30 No hace mucho, $32.30 alcanzaba para almorzar en restaurantes de tipo casual.
 
-No sé por qué, pero comenzar el día soltando $XXX no se siente bien.
+No sé por qué, pero comenzar el día soltando $32.30 no se siente bien.
 
 ## el local fue "renovado"
 
